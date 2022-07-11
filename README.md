@@ -1,2 +1,5 @@
 # open_source_designs
-Hey there, I have started developing very simple designs and projects that I will make public to use by everyone
+
+A simple login page and sign up page. 
+
+![login](https://user-images.githubusercontent.com/63516467/178367378-cc2d42d5-639b-44ec-8210-72137624b5d3.png)
